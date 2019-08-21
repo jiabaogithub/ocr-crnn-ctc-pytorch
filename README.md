@@ -1,4 +1,5 @@
 # 基于CRNN+CTC架构的OCR模型
+> 更详细信息的记录在该篇文章中：[深度学习实战--快递单手机号识别（训练篇）](<https://mp.weixin.qq.com/s?__biz=MzU2Njg4MTMzNA==&mid=2247483891&idx=1&sn=b43573e8c10b36070811387f7edd7cca&chksm=fca4fcaacbd375bcf507ffe1e5bb5f2568ff214b58d3bfa1a83ed703d2248805fcdbb678e652&token=563582328&lang=zh_CN#rd>)
 
 ## Dependence
 
@@ -34,8 +35,6 @@ Run `train.py` by
 ```sh
 python train.py --trainroot train_mobiles_lmdb --valroot val_mobiles_lmdb
 ```
-
-
 
 ## Reference
 
