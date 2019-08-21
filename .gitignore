@@ -1,4 +1,6 @@
-*__pycache__/
-*.idea/
+__pycache__/
+.idea/
 *.pth
 *.mdb
+data_generator/data_set_all/
+expr/
